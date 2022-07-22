@@ -4,31 +4,11 @@
 
 ## Overview
 
-* Maker Protocol
-  * [What?]()
-  * [Why?]()
-  * [How?]()
-
-* DAI
-  * [What?]()
-  * [Why?]()
-  * [How?]()
-
-* Vaults
-  * [What?]()
-  * [Why?]()
-  * [How?]()
-  
-* MakerDAO
-  * [What?]()
-  * [Why?]()
-  * [How?]()
-
-* MKR
-  * [What?]()
-  * [Why?]()
-  * [How?]()
-
+* [Maker Protocol]()
+* [DAI]()
+* [Vaults]()
+* [MakerDAO]()
+* [MKR]()
 
 ## FAQs
 * [Maker Protocol]()
