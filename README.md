@@ -11,7 +11,9 @@ description: >-
 
 ## What is the <mark style="color:yellow;">Maker Protocol</mark>?
 
-The Maker Protocol is a set of modular [smart contracts](https://ethereum.org/en/smart-contracts/) that exist on the Ethereum blockchain. These contracts define a system of interactions that result in the DAI stablecoin, Maker Vaults, the MKR token and MakerDAO. Actions in the Maker Protocol are performed by users interacting with the Ethereum blockchain. 
+The Maker Protocol is a set of modular [smart contracts](https://ethereum.org/en/smart-contracts/) that exist on the Ethereum blockchain. These contracts define a system of interactions that result in the DAI stablecoin, Maker Vaults, the MKR token and MakerDAO. 
+
+Actions in the Maker Protocol are performed by users interacting with the Ethereum blockchain. 
 
 [Learn more...]()
 
