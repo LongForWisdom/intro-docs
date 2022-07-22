@@ -15,19 +15,19 @@ The Maker Protocol is a set of modular [smart contracts](https://ethereum.org/en
 
 [Learn more...]()
 
-## What is <mark style="color:33FFFF;">DAI</mark>?
+## What is <mark style="color:orange;">DAI</mark>?
 
 DAI is a fully collateralized, stable, decentralized currency pegged to the value of the U.S Dollar. DAI can be transacted using the Ethereum blockchain by anyone at any time.
 
 [Learn more...]()
 
-## What are <mark style="color:#CA33FF;">Maker Vaults</mark>?
+## What are <mark style="color:orange;">Maker Vaults</mark>?
 
 Maker Vaults are a mechanism in which users can create DAI by locking up other cryptotokens as collateral. Anyone can create a Maker Vault using the Ethereum blockchain at any time.
 
 [Learn more...]()
 
-## What is <mark style="color:yellow;">MKR</mark>?
+## What is <mark style="color:orange;">MKR</mark>?
 
 MKR is the governance token of the Maker Protocol. Owners of MKR vote on risk and management decisions and the results will change the Maker Protocol. 
 
