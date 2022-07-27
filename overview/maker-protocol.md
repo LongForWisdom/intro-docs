@@ -16,7 +16,6 @@ Actions that affect the Maker Protocol are either permissionless or permissioned
 
 Permissionless actions in the Maker Protocol include things like:
 * Opening a Maker Vault according to the rules of the Maker Protocol.
-* Transferring owned DAI. 
 * Calling necessary maintenance functions.
 * Liquidating a vault user according to the rules of the Maker Protocol.
 
@@ -38,5 +37,5 @@ The Maker Protocol is governed by MKR Token Holders.
 
 MakerDAO is the group of individuals and entities that own the MKR token and/or operate, maintain and improve the Maker Protocol.  
 
-![image](_media/basic-overview.png)
+![image](../_media/basic-overview.png)
 
