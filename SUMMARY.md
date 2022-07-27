@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 
 ## Overview
-* [Maker Protocol](overview/maker-protocol.md)
+* [](overview/maker-protocol.md)
 * [DAI](overview/dai.md)
 * [Vaults](overview/vaults.md)
 * [MakerDAO](overview/makerdao.md)
