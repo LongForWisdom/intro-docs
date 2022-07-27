@@ -31,7 +31,7 @@ No entity or individual has permission or direct control over any aspect of the 
 
 ## How does this fit in with our other concepts?
 
-DAI, MKR and Vaults are all a part of the Maker Protocol.  
+The DAI Stableconi, MKR token and Maker Vaults are all a part of the Maker Protocol.  
 
 The Maker Protocol is governed by MKR Token Holders.  
 
