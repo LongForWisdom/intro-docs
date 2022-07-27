@@ -19,7 +19,7 @@ Actions in the Maker Protocol are performed by users interacting with the Ethere
 
 ## What is <mark style="color:yellow;">DAI</mark>?
 
-DAI is a fully collateralized, stable, decentralized currency pegged to the value of the U.S Dollar. DAI can be transacted using the Ethereum blockchain by anyone at any time.
+DAI is a stable, fully collateralized, and decentralized currency pegged to the value of the U.S Dollar. DAI can be transacted using the Ethereum blockchain by anyone at any time.
 
 [Learn more...](overview/dai.md)
 
@@ -31,7 +31,7 @@ Maker Vaults are a mechanism in which users can create DAI by locking up other c
 
 ## What is <mark style="color:yellow;">MKR</mark>?
 
-MKR is the governance token of the Maker Protocol. Owners of MKR vote on risk and management decisions and the results will change the Maker Protocol. 
+MKR is the governance token of the Maker Protocol. Owners of MKR vote on risk and management decisions and the outcomes can result in changes to the Maker Protocol. 
 
 [Learn more...](overview/mkr.md)
 
