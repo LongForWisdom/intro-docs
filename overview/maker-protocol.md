@@ -1,6 +1,4 @@
-# The Maker Protocol
-
-## What is the Maker Protocol?
+# Maker Protocol
 
 The Maker Protocol is a set of modular [smart contracts](https://ethereum.org/en/smart-contracts/) that exist primarily on the Ethereum blockchain. 
 
@@ -23,19 +21,19 @@ Permissioned actions taken by Maker Governance include things like:
 * Changing the risk parameters on a certain class of vault.
 * Adjusting liquidation and auction parameters.
 * Transferring DAI owned by the Maker Protocol.
-* Upgrading or replacing some parts of the Maker Protocol.
+* Upgrading or replacing parts of the Maker Protocol.
 
 Users of DAI or Vaults have permissioned access to the DAI and Vaults that they own, but no access to DAI or Vaults owned by other users.  
 
-No entity or individual has permission or direct control over any aspect of the Maker Protocol.  
+No entity or individual has permissions or direct control over any aspect of the Maker Protocol.  
 
 ## How does this fit in with our other concepts?
 
-The DAI Stableconi, MKR token and Maker Vaults are all a part of the Maker Protocol.  
+The DAI Stablecoin, MKR token and Maker Vaults are all a part of the Maker Protocol.  
 
 The Maker Protocol is governed by MKR Token Holders.  
 
 MakerDAO is the group of individuals and entities that own the MKR token and/or operate, maintain and improve the Maker Protocol.  
 
-![image](../_media/basic-overview.png)
+![Maker Protocol](../_media/basic-overview.png)
 
