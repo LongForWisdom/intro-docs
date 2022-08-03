@@ -4,8 +4,8 @@
 
 ## Overview
 * [Maker Protocol](overview/maker-protocol.md)
-* [DAI](overview/dai.md)
-* [Vaults](overview/vaults.md)
+* [Dai Stablecoin](overview/dai.md)
+* [Maker Vaults](overview/vaults.md)
 * [MakerDAO](overview/makerdao.md)
 * [MKR](overview/mkr.md)
 
