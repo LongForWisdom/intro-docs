@@ -8,7 +8,7 @@ Vaults are required to be overcollateralized and have a Liquidation Ratio that V
 
 Additionally, a debt ceiling is imposed on each Vault type to prevent over-reliance on risky or illiquid collaterals.
 
-Any user who wishes to generate Dai will pay a Stability Fee on the generated Dai balance. These fees are used to manage the Dai Peg, fund development and maintenance of the Maker Protocol and reward governors of the Maker Protocol.
+Any user who wishes to generate Dai will pay a Stability Fee on the generated Dai balance. These fees are used to manage the Dai peg, fund development and maintenance of the Maker Protocol and reward governors of the Maker Protocol.
 
 ## Why Open a Vault?
 
@@ -26,5 +26,9 @@ Users looking for liquidity can turn to Vaults since Dai can serve any purpose. 
 
 Vaults offer flexible terms. There are no repayment schedules, no minimum payments, and no credit history requirements. Users can repay at their own pace as long as their Vault is properly collateralized. 
 
-{% hint style="warning" %} Any use case of Vaults is associated with various risks. Every user should have a good understanding of risks applicable in their situation. These risks are not covered in detail here. {% endhint %}
+{% hint style="warning" %} 
+
+Any use case of Vaults is associated with various risks. Every user should have a good understanding of risks applicable in their situation. These risks are **not** covered in these documents. 
+
+{% endhint %}
 
